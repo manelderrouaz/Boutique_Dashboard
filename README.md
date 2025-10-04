@@ -30,7 +30,7 @@ streamlit run streamlit.py
 
 ### Détail des Ventes
 ![Top 10 produits](screenshots/2.png)
-```
+
 
 ## Fonctionnalités
 
